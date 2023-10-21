@@ -17,10 +17,7 @@
   flex-direction: row;
   align-items: center;
 }
-
-.poem {
-  width: 100%;
-  background-color: lightpink;
+.merge{
   margin-top: 2rem;
 }
 
