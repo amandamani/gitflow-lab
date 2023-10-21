@@ -24,7 +24,7 @@ body {
 .poem {
   width: 100%;
   background-color: lightpink;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .poem__image {
